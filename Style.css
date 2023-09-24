@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+div img{
+    align-items: center;
+    padding: auto;
+}
+
+img{
+    padding: auto;
+}
